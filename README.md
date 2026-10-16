@@ -269,7 +269,7 @@ We also had the opportunity to showcase our robot in front of distinguished gues
 
 Contributions, suggestions, and improvements are welcome! Feel free to explore the repository, learn from the implementation, and contribute where appropriate.
 
-Built with dedication by **[piyushops01](https://github.com/piyushops01) and the Kancha Bot team**.
+Built with dedication by **[piyushops01](https://github.com/piyushops01) and the Team TECH - DECODERS**.
 
 ---
 
