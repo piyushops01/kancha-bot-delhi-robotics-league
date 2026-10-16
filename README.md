@@ -38,17 +38,19 @@ During the event, we had the opportunity to present our robot to **IAS Himanshu 
 
 *Our team with our mentor and Kancha Bot.*
 
-| Name | Role | Responsibilities
-|---|---|
-| Piyush | TL, Robotics & Electronics Integration |  Electronics Integration
+## 👥 Team Roles & Responsibilities
 
-Coordinating hardware integration, troubleshooting electrical issues, and helping rebuild the robot under competition deadlines
-| Gurmeet Singh | Mechanical Design & Chassis | Chassis construction, structural assembly, and mechanical stability.
-| Ashmit Raj Nishad | Shooting Mechanism Engineer | Assembly, alignment, and adjustment of the shooting mechanism and motors.
-| Lavish | Arduino & Embedded Systems | Arduino programming, motor-control logic, and electronics debugging.
-| Chirag | Remote Control & Communication | Remote-control integration and wireless communication between the controller and robot
-| Gaurav Joshi | Power Systems & Wiring | Battery management, power distribution, wiring, and electrical connections.
-| Vainessa Sharma | Testing & Quality Assurance | Practice testing, identifying performance issues, and checking robot functionality before matches.
+Our team, **TECH-DECODERS**, collaborated to design, build, program, test, and demonstrate Kancha Bot. Each member contributed to the development process, from mechanical assembly and electronics integration to troubleshooting and competition preparation.
+
+| Team Member | Role | Responsibilities |
+|---|---|---|
+| **Piyush** | Robotics & Electronics Integration | Coordinating hardware integration, troubleshooting electrical issues, and helping rebuild the robot under competition deadlines. |
+| **Gurmeet Singh** | Mechanical Design & Chassis | Chassis construction, structural assembly, and ensuring mechanical stability. |
+| **Ashmit Raj Nishad** | Shooting Mechanism Engineer | Assembling, aligning, and adjusting the shooting mechanism and motors. |
+| **Lavish** | Arduino & Embedded Systems | Arduino programming, motor-control logic, and electronics debugging. |
+| **Chirag** | Remote Control & Communication | Integrating the remote-control system and wireless communication between the controller and robot. |
+| **Gaurav Joshi** | Power Systems & Wiring | Managing batteries, power distribution, wiring, and electrical connections. |
+| **Vainessa Sharma** | Testing & Quality Assurance | Conducting practice tests, identifying performance issues, and checking robot functionality before matches. |
 
 **Team:** TECH-DECODERS  
 **Mentor:** Mr. Shubham Jain  
