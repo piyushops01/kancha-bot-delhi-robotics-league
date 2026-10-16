@@ -26,7 +26,7 @@ Our robot for the **Delhi Robotics League (DRL)**, a school-level robotics compe
 **Watch IAS Himanshu Gupta Sir try Kancha Bot:** [Watch the robot demonstration](https://drive.google.com/file/d/1_SxmUtC7Sb9xPgpGx0uNdIp6EL1kQ1fR/view?usp=drive_link)
 
 >
-> `![Kancha Bot demo](https://drive.google.com/file/d/1_LBqOt9-gyyqMi3FIMVwlcYsofsNTjLg/view?usp=sharing)`
+> [Kancha Bot demo](https://github.com/piyushops01/kancha-bot-delhi-robotics-league/blob/main/TECH%20-%20DECODERS%20Demonstrated%20Mechanism.mp4)
 
 During the event, we had the opportunity to present our robot to **IAS Himanshu Gupta, Atishi, former Delhi Chief Minister Arvind Kejriwal, and IIT professors**. The video shows IAS Himanshu Gupta trying the robot and seeing how it works.
 
@@ -34,7 +34,7 @@ During the event, we had the opportunity to present our robot to **IAS Himanshu 
 
 ## 👥 Team
 
-![Team with mentor and Kancha Bot](https://drive.google.com/file/d/1aXhN0nuyL-xpdsIGdW1uyN_tPDt4tl-Y/view?usp=drive_link)
+![Team with mentor and Kancha Bot](https://github.com/piyushops01/kancha-bot-delhi-robotics-league/blob/main/images/Team%20TECH%20DECODER.jpg)
 
 *Our team with our mentor and Kancha Bot.*
 
